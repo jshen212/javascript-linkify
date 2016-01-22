@@ -195,7 +195,7 @@ window.linkify = (function(){
         idx_prev = idx_last;
       }
       
-      // Push massaged link onto the array
+      // Push massaged link onto the array.
       parts.push([ link, href ]);
     };
     
